@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['read_22',['Read',['../class_process_manager.html#a2388ef551945a10fa880ddaba8a3dd9b',1,'ProcessManager']]],
-  ['readandgetcontent_2ecpp_23',['readAndGetContent.cpp',['../read_and_get_content_8cpp.html',1,'']]],
-  ['readme_2emd_24',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
+  ['parse_5fheaders_16',['parse_headers',['../class_process_manager.html#a401263e86a0da99f3353285ae84db7e5',1,'ProcessManager']]],
+  ['pointermapping_2ecpp_17',['PointerMapping.cpp',['../_pointer_mapping_8cpp.html',1,'']]],
+  ['process_5fid_18',['process_id',['../struct_options.html#ac998fa83eb7d682aff0f020981bcd303',1,'Options']]],
+  ['processmanager_19',['ProcessManager',['../class_process_manager.html',1,'ProcessManager'],['../class_process_manager.html#acdeea467dc3b4baf0d0ea47a9f7cc556',1,'ProcessManager::ProcessManager()']]],
+  ['processmanager_2ecpp_20',['ProcessManager.cpp',['../_process_manager_8cpp.html',1,'']]],
+  ['processmanager_2eh_21',['ProcessManager.h',['../_process_manager_8h.html',1,'']]]
 ];

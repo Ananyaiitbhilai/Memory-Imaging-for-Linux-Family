@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['scan_2ecpp_25',['Scan.cpp',['../_scan_8cpp.html',1,'']]],
-  ['scanprocess_26',['scanProcess',['../class_process_manager.html#a25d6bbd02a7839812629e2a82f082606',1,'ProcessManager::scanProcess()'],['../class_process_manager.html#a8d73b602fc7f882f4b4f50f27b9a9059',1,'ProcessManager::scanProcess(int target)'],['../class_process_manager.html#aee748639d9511caa17726624fc7e4534',1,'ProcessManager::scanProcess(long target)'],['../class_process_manager.html#ae734d2126028df462fc956a6bbbb65a8',1,'ProcessManager::scanProcess(string target)'],['../class_process_manager.html#af3c54ded0f1d613dabd151bd96ced83f',1,'ProcessManager::scanProcess(char target)'],['../class_process_manager.html#a257bdd07f549bd1194e3fe17911a7b43',1,'ProcessManager::scanProcess(vector&lt; long &gt; addresses, int target)'],['../class_process_manager.html#ac56e5a95f0d5430df4300aa9294754b3',1,'ProcessManager::scanProcess(vector&lt; long &gt; addresses, long target)'],['../class_process_manager.html#a0bcb8dbe08488dc955b0cddf27135a73',1,'ProcessManager::scanProcess(vector&lt; long &gt; addresses, string target)'],['../class_process_manager.html#a6019b2fd4dae7d087937bdc6c0517fbd',1,'ProcessManager::scanProcess(vector&lt; long &gt; addresses, char target)']]],
-  ['span_27',['span',['../class_process_manager.html#a5a509ada8a76f4a4e3a2ad9d6b252b66',1,'ProcessManager']]]
+  ['raise_5ferror_22',['raise_error',['../namespace_tools.html#a7ea6ae8b40a7bff7b5e0989694c5545b',1,'Tools']]],
+  ['read_5fsym_5flink_23',['read_sym_link',['../namespace_tools.html#afd9297bda89d567896b2df79c1345ea6',1,'Tools']]],
+  ['readandgetcontent_2ecpp_24',['readAndGetContent.cpp',['../read_and_get_content_8cpp.html',1,'']]],
+  ['readme_2emd_25',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]]
 ];

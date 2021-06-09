@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['processmanager_32',['ProcessManager',['../class_process_manager.html',1,'']]]
+  ['options_35',['Options',['../struct_options.html',1,'']]]
 ];

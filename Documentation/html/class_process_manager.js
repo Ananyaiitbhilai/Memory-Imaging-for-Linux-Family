@@ -1,29 +1,7 @@
 var class_process_manager =
 [
-    [ "ProcessManager", "class_process_manager.html#a06e01b85f6e6666427e58e85a75f9555", null ],
-    [ "ProcessManager", "class_process_manager.html#a3451da47717a70193e6aa06011a8fa51", null ],
-    [ "FindBaseAddress", "class_process_manager.html#af3a158b1c0dbe7e924c8dcfc563c24c9", null ],
-    [ "getAddresses", "class_process_manager.html#abacf82f1317e8d1ba4db5184c6a4c4b2", null ],
-    [ "getContent", "class_process_manager.html#ad615945782bf08b1b871514188189203", null ],
-    [ "identifierFunction", "class_process_manager.html#a610d5d4f8abb5d6b8305147893a4ead7", null ],
-    [ "PrintContent", "class_process_manager.html#a7d37ad9ce6cf4aad272979dade929416", null ],
-    [ "Read", "class_process_manager.html#a2388ef551945a10fa880ddaba8a3dd9b", null ],
-    [ "scanProcess", "class_process_manager.html#a25d6bbd02a7839812629e2a82f082606", null ],
-    [ "scanProcess", "class_process_manager.html#af3c54ded0f1d613dabd151bd96ced83f", null ],
-    [ "scanProcess", "class_process_manager.html#a8d73b602fc7f882f4b4f50f27b9a9059", null ],
-    [ "scanProcess", "class_process_manager.html#aee748639d9511caa17726624fc7e4534", null ],
-    [ "scanProcess", "class_process_manager.html#ae734d2126028df462fc956a6bbbb65a8", null ],
-    [ "scanProcess", "class_process_manager.html#a6019b2fd4dae7d087937bdc6c0517fbd", null ],
-    [ "scanProcess", "class_process_manager.html#a257bdd07f549bd1194e3fe17911a7b43", null ],
-    [ "scanProcess", "class_process_manager.html#ac56e5a95f0d5430df4300aa9294754b3", null ],
-    [ "scanProcess", "class_process_manager.html#a0bcb8dbe08488dc955b0cddf27135a73", null ],
-    [ "Addresses", "class_process_manager.html#ab8c71ee22c9948a16f830fe2602ca4be", null ],
-    [ "AddressesRows", "class_process_manager.html#a305ed4423196e2067079d7fae559a0a3", null ],
-    [ "BaseAddress", "class_process_manager.html#abce2ed7ca1f5a6f66c984619e67bb719", null ],
-    [ "contentChar", "class_process_manager.html#ad9fd9878de52fbdc817c41d1dd79e101", null ],
-    [ "contentInt", "class_process_manager.html#a3ff20af0983cccafb5b12bd4f24dca41", null ],
-    [ "contentLongInt", "class_process_manager.html#a94506f70d6a3a811fb1356eac3edefab", null ],
-    [ "contentString", "class_process_manager.html#a621481596aa0ff458cb13cec90eb7999", null ],
-    [ "pID", "class_process_manager.html#ae41ba0f0763856c0afe6efb10d74317d", null ],
-    [ "span", "class_process_manager.html#a5a509ada8a76f4a4e3a2ad9d6b252b66", null ]
+    [ "ProcessManager", "class_process_manager.html#acdeea467dc3b4baf0d0ea47a9f7cc556", null ],
+    [ "~ProcessManager", "class_process_manager.html#aed3cd2ca11d92395228b758d39030b5f", null ],
+    [ "get_exe_path", "class_process_manager.html#a168bacb3c0e33e3c1c2fc9f4013ef009", null ],
+    [ "parse_headers", "class_process_manager.html#a401263e86a0da99f3353285ae84db7e5", null ]
 ];

@@ -1,11 +1,6 @@
 var files_dup =
 [
-    [ "getAddresses.cpp", "get_addresses_8cpp.html", null ],
-    [ "identifier.cpp", "identifier_8cpp.html", null ],
-    [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
-    [ "MemoryScan.cpp", "_memory_scan_8cpp.html", null ],
-    [ "ProcessManager.h", "_process_manager_8h.html", "_process_manager_8h" ],
-    [ "readAndGetContent.cpp", "read_and_get_content_8cpp.html", "read_and_get_content_8cpp" ],
-    [ "Scan.cpp", "_scan_8cpp.html", null ],
-    [ "VectorScan.cpp", "_vector_scan_8cpp.html", null ]
+    [ "Core", "dir_c6310732a22f63c0c2fc5595561e68f1.html", "dir_c6310732a22f63c0c2fc5595561e68f1" ],
+    [ "needs_refactoring", "dir_bd94f2af3b15f4d4f23f8e469f96ba22.html", "dir_bd94f2af3b15f4d4f23f8e469f96ba22" ],
+    [ "main.cpp", "main_8cpp.html", "main_8cpp" ]
 ];

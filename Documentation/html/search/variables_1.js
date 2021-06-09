@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['baseaddress_54',['BaseAddress',['../class_process_manager.html#abce2ed7ca1f5a6f66c984619e67bb719',1,'ProcessManager']]]
+  ['info_63',['info',['../struct_options.html#ace295c7e489ad9ce625fa56a513dee3a',1,'Options']]]
 ];

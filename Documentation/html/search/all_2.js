@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['baseaddress_4',['BaseAddress',['../class_process_manager.html#abce2ed7ca1f5a6f66c984619e67bb719',1,'ProcessManager']]]
+  ['check_5fmagic_3',['check_magic',['../elfparser_8cpp.html#ac19db5e7adf398e24a5d811c153cdd9a',1,'elfparser.cpp']]]
 ];

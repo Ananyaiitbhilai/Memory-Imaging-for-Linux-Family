@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['toothbrush_28',['toothbrush',['../md__r_e_a_d_m_e.html',1,'']]],
-  ['tohex_29',['ToHex',['../read_and_get_content_8cpp.html#a073e6b08fa733f7a4997acb0ae024ad5',1,'readAndGetContent.cpp']]]
+  ['scan_26',['scan',['../struct_options.html#a5ae7ecce31ee3e7f0c887f1ed75e2f37',1,'Options']]],
+  ['scan_2ecpp_27',['Scan.cpp',['../_scan_8cpp.html',1,'']]]
 ];

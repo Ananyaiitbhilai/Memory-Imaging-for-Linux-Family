@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['span_60',['span',['../class_process_manager.html#a5a509ada8a76f4a4e3a2ad9d6b252b66',1,'ProcessManager']]]
+  ['verbose_66',['verbose',['../struct_options.html#abaa084df3c7ed900634b4d187aa58ea0',1,'Options']]]
 ];
